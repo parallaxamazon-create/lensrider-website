@@ -1,3 +1,10 @@
-# LensRider Website
+# LensRider Full Working Website
 
-Deploy-ready React + Vite website.
+Simple static website. Upload these root files to GitHub:
+- index.html
+- styles.css
+- script.js
+- logo.png
+- README.md
+
+Works directly on Vercel without React/Vite setup.
